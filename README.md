@@ -33,7 +33,7 @@
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Tech Stack](#-tech-stack) <!-- GitHub در عمل همین رو برای 💻 Tech Stack می‌سازه -->
+- [Tech Stack](#-tech-stack)
 - [Projects](#projects)
 - [GitHub Stats](#-github-stats)
 - [Contact](#contact)
@@ -47,6 +47,22 @@
 - 🛡️ Interests: **offensive security, CTFs, low-level tweaking, and experimenting with configs**
 - 🤝 Open to: **collaborations on open-source security tools or networking-related projects**
 - 📫 How to reach me: **necvilen@gmail.com** or **Telegram: @necvilen**
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=necvilen&theme=dark&hide_border=false" alt="GitHub streak" />
+</p>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -98,21 +114,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=necvilen&theme=dark&hide_border=false" alt="GitHub streak" />
-</p>
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## Contact
 
@@ -120,5 +122,3 @@
 - 💬 Telegram: [@necvilen](https://t.me/necvilen)  
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
