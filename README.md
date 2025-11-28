@@ -1,15 +1,42 @@
-# Hi, I'm Necvilen 👋
+<h1 align="center">Hi, I'm Necvilen 👋</h1>
 
-Python developer  
-Cybersecurity & Red Teaming enthusiast  
-Backend & Networking lover  
-Open-Source contributor  
+<p align="center">
+  Python developer · Cybersecurity & Red Teaming enthusiast · Backend & Networking lover
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/necvilen?style=social)
-![GitHub stars](https://img.shields.io/github/stars/necvilen?style=social)
+<p align="center">
+  <a href="https://github.com/necvilen?tab=followers">
+    <img src="https://img.shields.io/github/followers/necvilen?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/necvilen?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/necvilen?style=social" alt="GitHub stars" />
+  </a>
+</p>
 
-![OS](https://img.shields.io/badge/OS-Kali-blue)
-![OS](https://img.shields.io/badge/OS-Windows-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Kali-blue" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue" alt="Windows" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Python+Developer;Red+Teaming+Enthusiast;Backend+%26+Networking+Lover;Cybersecurity+Geek" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=necvilen&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+## Table of Contents
+
+- [About Me](#about-me)
+- [Tech Stack](#-tech-stack) <!-- GitHub در عمل همین رو برای 💻 Tech Stack می‌سازه -->
+- [Projects](#projects)
+- [GitHub Stats](#-github-stats)
+- [Contact](#contact)
 
 ---
 
@@ -23,28 +50,26 @@ Open-Source contributor
 
 ---
 
-## Table of Contents
+## 💻 Tech Stack
 
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [GitHub Stats](#github-stats)
-- [Contact](#contact)
+<!-- Visual badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## Tech Stack
-
-**Languages**
+**Languages & Scripting**
 
 - Python  
 - Bash  
 
 **Security & Networking**
 
-- Kali Linux, basic red teaming lab setup  
+- Kali Linux lab setup  
 - Nmap, Wireshark, tcpdump  
-- Burp Suite
+- Burp Suite  
 - Metasploit Framework (learning)  
 
 **Backend & Tools**
@@ -52,6 +77,7 @@ Open-Source contributor
 - FastAPI (for small APIs & tools)  
 - Git & GitHub  
 - Linux terminal, PowerShell  
+- Docker  
 
 ---
 
@@ -69,12 +95,22 @@ Open-Source contributor
 - 🔹 [YourSecurityTool](https://github.com/necvilen/YourSecurityTool) – Small Python tool for automating a simple security or networking task.  
 - 🔹 [CTF-Writeups](https://github.com/necvilen/ctf-writeups) – Notes and writeups from CTF challenges I solve.  
 
+
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Necvilen's GitHub stats](https://github-readme-stats.vercel.app/api?username=necvilen&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=necvilen&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=necvilen&theme=dark&hide_border=false" alt="GitHub streak" />
+</p>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=necvilen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -82,3 +118,7 @@ Open-Source contributor
 
 - 📧 Email: **necvilen@gmail.com**  
 - 💬 Telegram: [@necvilen](https://t.me/necvilen)  
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
