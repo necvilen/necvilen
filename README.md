@@ -105,16 +105,6 @@
 
 ---
 
-## Projects
-
-- 🔹 [NetOptimizer Pro](https://github.com/necvilen/NetOptimizer-Pro) – Windows latency tuning script with safe registry & service tweaks.  
-- 🔹 [YourSecurityTool](https://github.com/necvilen/YourSecurityTool) – Small Python tool for automating a simple security or networking task.  
-- 🔹 [CTF-Writeups](https://github.com/necvilen/ctf-writeups) – Notes and writeups from CTF challenges I solve.  
-
-
----
-
-
 
 ## Contact
 
